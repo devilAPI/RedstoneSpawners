@@ -1,0 +1,4 @@
+# If true, mob spawners will only activate when powered.
+# If false, mob spawners will only activate when NOT powered.
+power-enables: true
+debug: false

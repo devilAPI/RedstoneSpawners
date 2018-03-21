@@ -1,0 +1,12 @@
+name: "RedstoneSpawners"
+version: "${project.version}"
+author: "Trophonix"
+main: "com.trophonix.redstonespawners.RedstoneSpawners"
+commands:
+  redstonespawners:
+    description: "RedstoneSpawners admin command"
+    aliases: [rss]
+    permission: "redstonespawners.admin"
+permissions:
+  redstonespawners.admin:
+    default: "op"
