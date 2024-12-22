@@ -1,5 +1,5 @@
 # RedstoneSpawnersReloaded
-This is [Trophonix's RedstoneSpawner](https://github.com/Trophonix/RedstoneSpawners) plugin, updated to 1.21.3 and fixed a bug where spawners couldnt be powered with Redstone Torches, Blocks etc., only Redstone Dust.
+This is [Trophonix's RedstoneSpawner](https://github.com/Trophonix/RedstoneSpawners) plugin, updated to 1.21.4 and fixed a bug where spawners couldnt be powered with Redstone Torches, Blocks etc., only Redstone Dust.
 ## What is this?
 RedstoneSpawnersReloaded is a very simple plugin which makes Mob Spawners toggleable via a redstone signal.
 ## Commands
