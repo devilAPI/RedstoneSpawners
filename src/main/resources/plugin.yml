@@ -1,7 +1,8 @@
-name: "RedstoneSpawners"
+name: "RedstoneSpawnersReloaded"
 version: "${project.version}"
-author: "Trophonix"
-main: "com.trophonix.redstonespawners.RedstoneSpawners"
+author: "Trophonix, devilAPI"
+main: "com.trophonix.redstonespawners.devilAPI.RedstoneSpawners"
+api-version: 1.21
 commands:
   redstonespawners:
     description: "RedstoneSpawners admin command"
