@@ -1,4 +1,6 @@
 # RedstoneSpawnersReloaded
+[![Version](https://badges.spiget.org/resources/version/Version-yellow-7939.svg)](https://www.spigotmc.org/resources/redstonespawnersreloaded.121444/)[![Rating](https://badges.spiget.org/resources/rating/Rating-yellow-7939.svg)](https://www.spigotmc.org/resources/redstonespawnersreloaded.121444/)[![Rating](https://badges.spiget.org/resources/downloads/SpigotDownloads-yellow-7939.svg)](https://www.spigotmc.org/resources/redstonespawnersreloaded.121444/)
+
 This is [Trophonix's RedstoneSpawner](https://github.com/Trophonix/RedstoneSpawners) plugin, updated to 1.21.4 and fixed a bug where spawners couldn't be powered with Redstone Torches, Blocks etc., only Redstone Dust.
 ## What is this?
 RedstoneSpawnersReloaded is a very simple plugin which makes Mob Spawners toggleable via a redstone signal.
